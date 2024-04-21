@@ -12,10 +12,10 @@
 **Bước 2: Tạo user là các thí sinh sẽ dự thi**
    - Tạo file ds thí sinh từ ds dự thi gốc (excel)
    - Chuẩn hóa dữ liệu với 4 cột: firstname, lastname, username, password
-   - Chú ý: firstname chứa họ và tên đệm, lastname chứa tên, username là dữ liệu số báo danh, password là 4 số ngẫu nhiên
+   - Chú ý: firstname chứa họ và tên đệm, lastname chứa tên, username là dữ liệu số báo danh, password là 4 số ngẫu nhiên, dùng hàm `=RANDBETWEEN(1000,9999)`
    - Xuất ra file csv (chú ý đảm bảo ko mất tiếng việt)
    - Trộn mail (trên word) để tạo file pdf có các thông tin: SBD, Mật khẩu đăng nhập, MASV, Hoten, ngày sinh, Phòng thi. Khi print file pdf chọn: paper per sheet=4 để tiết kiệm giấy
-   - Làm theo các bước trong file : tạo ds thí sinh dự thi
+   - Làm theo file hướng dẫn: Tạo user dự thi.pdf
      
 **Bước 3: Chuẩn hóa dữ liệu ngân hàng câu hỏi và nhập vào hệ thống**
    - Chuẩn hóa dữ liệu từ ban đề (nhận file word, đã đánh dấu đâu là đáp án đúng: tô vàng, tận cùng là @#)
