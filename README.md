@@ -6,7 +6,7 @@
    - Download dữ liệu gốc, Khôi phục dữ liệu bằng phần mềm HeidiSQL, sẽ được CSDL trên Mariadb
    - Download và cài đặt PHP7.3.0, cấu hình để chạy được thư viện mysqli
    - Download và cấu hình code Moodle để nhận csdl (root+pw)
-   - Cấu hình IIS: để nhận thư mục code Moodle, cấu hình chạy đc index.php, cấu hình php-cgi.exe mudule
+   - Cấu hình IIS: để nhận thư mục code Moodle, cấu hình chạy đc index.php, cấu hình php-cgi.exe module
    - Đọc và làm theo các bước trong file : Qui trình cài đặt hệ thống thi B1B2 TNUT (easy).pdf
      
 **Bước 2: Tạo user là các thí sinh sẽ dự thi**
@@ -43,6 +43,8 @@
    - Sao lưu dữ liệu camera các phòng thi vào máy tính => Copy vào USB hoặc ổ cứng di động => Niêm phong
 
 
-Đỗ Duy Cốp
+Đỗ Duy Cốp - duycop@tnut.edu.vn
+
 4/2024
+
 that easy!
