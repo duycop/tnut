@@ -41,6 +41,7 @@
    - Lưu trữ các file excel đã backup, và file .sql đã backup vào USB hoặc ổ cứng di động => Niêm phong
    - Sao lưu dữ liệu nghe bên thi nói vào máy tính => Copy vào USB hoặc ổ cứng di động => Niêm phong
    - Sao lưu dữ liệu camera các phòng thi vào máy tính => Copy vào USB hoặc ổ cứng di động => Niêm phong
+   - Các bước làm theo: vận hành kì thi.pdf
 
 
 Đỗ Duy Cốp - duycop@tnut.edu.vn
